@@ -9,5 +9,5 @@
   "BCO": "333784619373821956",
   "BMA": "284805484991610883",
   "comment": "BCO = Bot Co Owner, BMA = Bot main admin (role).",
-  "statues": ["https://bot.hulkbot.ml/home", "You wouldn't like me when I'm angry", "`${bot.guilds.array().length} servers`"]
+  "statues": ["mc.zanitynetwork.com", "with Vixel", "`${bot.guilds.array().length} servers`"]
 }
